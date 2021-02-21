@@ -1,5 +1,6 @@
-Olá, eu sou o Adriel, estudante de Segurança da informação.
-:medal_sports: Linguagens: 
+Olá, eu sou o Adriel, estudante de Segurança da informação.                                                     
+
+:medal_sports:Linguagens: 
 - Python
 - Java
 - C++
