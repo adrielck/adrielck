@@ -7,7 +7,7 @@ Olá, eu sou o Adriel, estudante de Segurança da informação.
 - PHP
 - JavaScript
 
-:briefcase: Ferramentas: Visual Studio Code, Git, Kali Linux.
+:briefcase: Ferramenta: Kali Linux.
 
 :love_letter: Aqui vai uma mensagem para entrar em contato com você: :arrow_heading_down:
 
