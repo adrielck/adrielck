@@ -1,4 +1,4 @@
-Olá, eu sou o Adriel, estudante de Segurança da informação.                                                     
+Olá, eu sou o Adriel.                                                     
 
 #### :medal_sports:Linguagens: 
 - Python
