@@ -7,7 +7,7 @@ Olá, eu sou o Adriel.
 - PHP
 - JavaScript
 
-:briefcase: Ferramenta: Kali Linux.
+:briefcase: Ferramenta: visual studio code.
 
 :love_letter: Aqui vai uma mensagem para entrar em contato com você: :arrow_heading_down:
 
