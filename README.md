@@ -4,9 +4,8 @@
 ## Olá, eu sou o Adriel.                                                   
 👇 Aqui você pode enviar uma mensagem para entrar em contato: 👇
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adriel2000)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)](https://www.instagram.com/adriell.cardoso/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)](https://twitter.com/adriel_dev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)](https://www.instagram.com/adrielmfx/)
+
 
 [![Adriel Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielck&layout=compact)](https://github.com/adrielck/github-readme-stats)
 
