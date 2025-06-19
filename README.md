@@ -1,4 +1,4 @@
-# 👾 Adriel Cardoso Araujo
+# 👾 Adriel Cardoso 
 
 > “We are finally awake.” — Mr. Robot  
 > Mas eu não sou o Elliot. Sou o Adriel — um estudante, um curioso insaciável, e um apaixonado por segurança da informação.
