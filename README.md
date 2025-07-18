@@ -41,7 +41,7 @@ Almejo uma posição em **Segurança da Informação**, **Red Team** ou **Admini
   <li>Foundations of Cybersecurity – Coursera (abr/2025)</li>
   <li>Connect and Protect: Networks and Network Security – Coursera (abr/2025)</li>
   <li>Introdução à Programação Orientada a Objetos – Fundação Bradesco (mai/2025)</li>
-  <li>Desenvolvendo um Projeto Completo em Python – Fundação Bradesco (abr/2025) fileciteturn0file1L10-L13</li>
+  <li>Desenvolvendo um Projeto Completo em Python – Fundação Bradesco (abr/2025) 
 </ul>
 
 ---
