@@ -69,4 +69,4 @@
 > **“As pessoas são estranhas. Porque elas querem ser.”**  
 > — _Mr. Robot_  
 
-###### *README em constante evolução… 🚧*  
+
