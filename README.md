@@ -13,7 +13,7 @@
 Almejo uma posição em **Segurança da Informação**, **Red Team** ou **Administração de Redes**, onde possa aplicar meus conhecimentos em pentest, redes e automação, contribuindo com resultados concretos e crescendo junto à equipe.
 
 ## 🧑‍💻 Sobre Mim
-- 💼 Estudante de **Bacharelado em Ciência da Computação** (2027) e **Tecnólogo em Redes de Computadores** (2026) fileciteturn0file1L5-L8
+- 💼 Estudante de **Bacharelado em Ciência da Computação** (2027) e **Tecnólogo em Redes de Computadores** (2026) 
 - 🔐 Foco em **Segurança Cibernética**, **Pentest** e **Infraestrutura**
 - 🤖 Desenvolvo **scripts em Python** e **shell scripts** para automação de reconhecimento e exploração
 - 📚 Participante ativo em CTFs, TryHackMe e Hack The Box
@@ -82,5 +82,4 @@ Almejo uma posição em **Segurança da Informação**, **Red Team** ou **Admini
   <a href="https://linkedin.com/in/adrielck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/AdrielCK" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
   <a href="mailto:adrielaraujook@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail" alt="Email"/></a>
-</p>{{updated_at}}
 
