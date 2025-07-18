@@ -1,63 +1,72 @@
-# 👾 Adriel Cardoso 
+<p align="center">
+  <img src="https://github.com/eduardavieira-dev/eduardavieira-dev/raw/main/banner.gif" alt="Welcome Banner"/>
+</p>
 
-> “We are finally awake.” — Mr. Robot  
-> Mas eu não sou o Elliot. Sou o Adriel — um estudante, um curioso insaciável, e um apaixonado por segurança da informação.
-
----
-
-## 🧠 Sobre mim
-
-Sou estudante de **Redes de Computadores** e **Ciência da Computação**, buscando unir o conhecimento profundo da infraestrutura com a lógica da programação para criar, testar e... por que não? Quebrar. Entender como as coisas funcionam (e como podem falhar) é o que me motiva.
-
-Entre um laboratório e outro, mergulho em:
-
-- 💻 Pentest e Segurança Ofensiva  
-- 📡 Infraestrutura de redes e protocolos  
-- 🔐 Engenharia reversa e automações em Python  
-- 📚 Estudo contínuo em CTFs, TryHackMe, Hack The Box  
-- 🧩 Projetos open-source com foco em ferramentas de recon, fuzzing e coleta de dados
+<h1 align="center">👾 Olá, eu sou o Adriel Cardoso Araújo!</h1>
+<p align="center">
+  <em>“We are finally awake.” — Mr. Robot</em><br/>
+  Mas aqui não é ficção: é Cyber Security em ação.
+</p>
 
 ---
 
-## 🕶️ Estilo
-
-Misturo o lado técnico com o artístico. Minhas ferramentas e scripts carregam não só funcionalidade, mas também personalidade. Cada repositório aqui é parte do meu aprendizado e da minha visão sobre como a tecnologia pode ser explorada, entendida e dominada.
-
----
-
-## 📌 Objetivos
-
-- Criar soluções de automação para reconhecimento ofensivo  
-- Desenvolver ferramentas open-source para a comunidade hacker ética  
-- Compartilhar conhecimento técnico de forma acessível  
-- Ingressar profissionalmente na área de **Cyber Security**
+## 🧠 Sobre Mim
+- 🎓 Estudante de **Redes de Computadores** & **Ciência da Computação**  
+- 🔍 Apaixonado por **Pentest**, **Engenharia Reversa** e **CTFs**  
+- 🤖 Crio automações em Python para reconhecimento ofensivo  
+- 🌱 Em constante evolução: TryHackMe, Hack The Box, CTFs Open Source
 
 ---
 
-## 🧰 Stack & Ferramentas
-
-```
-💻  Python, Bash, Linux  
-🧠  Nmap, Wireshark, Burp Suite, Metasploit  
-🛰️  Subfinder, Gowitness, ffuf, amass  
-🔧  Git, Docker, VirtualBox, VMs para laboratório
-```
+## 🚀 Objetivos
+1. **Automatizar** tarefas de reconnaissance e fuzzing  
+2. **Desenvolver** ferramentas *open‑source* para a comunidade hacker ética  
+3. **Compartilhar** conhecimento técnico em blogs e workshops  
+4. **Ingressar** no mercado de **Cyber Security** como Red Teamer  
 
 ---
 
-## 🌐 Onde me encontrar
+## 🧰 Tech Stack & Ferramentas
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/adrielck/) — conexão profissional, networking e publicações técnicas  
-- 👤 GitHub — aqui é onde deixo rastros. Códigos, projetos, testes e ferramentas de estudo  
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-90C53F?style=flat&logo=nmap&logoColor=white"/>
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-00557F?style=flat&logo=wireshark&logoColor=white"/>
+  <img alt="Burp Suite" src="https://img.shields.io/badge/BurpSuite-ED1C24?style=flat&logo=portswigger&logoColor=white"/>
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-6D4F8B?style=flat&logo=metasploit&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🧩 Em construção...
+## 📂 Projetos em Destaque
+| Projeto                          | Descrição                                         | Status       |
+|----------------------------------|---------------------------------------------------|--------------|
+| 🔍 `recon-fuzzer`                | Ferramenta de fuzzing para endpoints REST         | ![⭐](https://img.shields.io/github/stars/AdrielCK/recon-fuzzer?style=social) |
+| 🐍 `py-automation`               | Scripts Python para automação de coleta de dados  | ![⭐](https://img.shields.io/github/stars/AdrielCK/py-automation?style=social) |
+| 🔐 `ctf-challenges`              | Resoluções de CTFs (TryHackMe, HTB, OverTheWire)   | ![⭐](https://img.shields.io/github/stars/AdrielCK/ctf-challenges?style=social) |
 
-Assim como um bom exploit, minha jornada está sempre em evolução.  
-Sinta-se à vontade para explorar meus projetos, abrir issues, sugerir melhorias ou simplesmente trocar uma ideia.
+---
 
-> “As pessoas são estranhas. Porque elas querem ser.”  
-> — Mr. Robot
+## 🌐 Conecte-se Comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrielck/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AdrielCK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:adrielaraujook@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
+> **“As pessoas são estranhas. Porque elas querem ser.”**  
+> — _Mr. Robot_  
+
+###### *README em constante evolução… 🚧*  
