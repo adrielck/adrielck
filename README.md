@@ -45,9 +45,9 @@
 ## 📂 Projetos em Destaque
 | Projeto                          | Descrição                                         | Status       |
 |----------------------------------|---------------------------------------------------|--------------|
-| 🔍 `recon-fuzzer`                | Ferramenta de fuzzing para endpoints REST         | ![⭐](https://img.shields.io/github/stars/AdrielCK/recon-fuzzer?style=social) |
-| 🐍 `py-automation`               | Scripts Python para automação de coleta de dados  | ![⭐](https://img.shields.io/github/stars/AdrielCK/py-automation?style=social) |
-| 🔐 `ctf-challenges`              | Resoluções de CTFs (TryHackMe, HTB, OverTheWire)   | ![⭐](https://img.shields.io/github/stars/AdrielCK/ctf-challenges?style=social) |
+| 🔍 `redtux1.5`                | Ferramenta avançada de fuzzing e automação para testes de segurança         | ![⭐](https://img.shields.io/github/stars/AdrielCK/recon-fuzzer?style=social) |
+| 🛠️ `Arsenal-de-Pentest-v1`               | CLI para automação de técnicas essenciais de pentest  | ![⭐](https://img.shields.io/github/stars/AdrielCK/py-automation?style=social) |
+| 🌐 `OSINT-Toolkit`              | Conjunto de ferramentas web para coleta de informações de OSINT   | ![⭐](https://img.shields.io/github/stars/AdrielCK/ctf-challenges?style=social) |
 
 ---
 
