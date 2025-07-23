@@ -3,22 +3,6 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Adriel Cardoso Araújo</h1>
-<p align="center">
-  <em>“Disciplina, técnica e inovação em cada byte.”</em>
-</p>
-
----
-
-## 🎯 Objetivo Profissional
-Almejo uma posição em **Segurança da Informação**, **Red Team** ou **Administração de Redes**, onde possa aplicar meus conhecimentos em pentest, redes e automação, contribuindo com resultados concretos e crescendo junto à equipe.
-
-## 🧑‍💻 Sobre Mim
-- 💼 Estudante de **Bacharelado em Ciência da Computação** (2027) e **Tecnólogo em Redes de Computadores** (2026) 
-- 🔐 Foco em **Segurança Cibernética**, **Pentest** e **Infraestrutura**
-- 🤖 Desenvolvo **scripts em Python** e **shell scripts** para automação de reconhecimento e exploração
-- 📚 Participante ativo em CTFs, TryHackMe e Hack The Box
-- 🌐 Disponível para trabalho remoto ou presencial
-
 ---
 
 ## 🎓 Formação Acadêmica
