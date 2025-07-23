@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Adriel Cardoso Araújo</h1>
----
 
 ## 🎓 Formação Acadêmica
 - **Bacharelado em Ciência da Computação** – Universidade (conclusão prevista: 2027)
@@ -56,10 +55,6 @@
 | 🛠️ `Arsenal-de-Pentest-v1`               | CLI para automação de técnicas essenciais de pentest  | ![⭐](https://img.shields.io/github/stars/AdrielCK/py-automation?style=social) |
 | 🌐 `OSINT-Toolkit`              | Conjunto de ferramentas web para coleta de informações de OSINT   | ![⭐](https://img.shields.io/github/stars/AdrielCK/ctf-challenges?style=social) |
 
-
-> Para ver mais projetos, visite meu repositório: https://github.com/AdrielCK?tab=repositories
-
----
 
 ## 🌐 Conecte-se Comigo
 <p align="center">
