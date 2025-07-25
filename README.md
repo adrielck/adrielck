@@ -2,7 +2,7 @@
   <img src="https://github.com/AdrielCK/AdrielCK/raw/main/banner.gif" alt="Banner de Boas-Vindas" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Adriel Cardoso Araújo</h1>
+<h1 align="center">👋 Olá, eu sou o Adriel </h1>
 
 ## 🎓 Formação Acadêmica
 - **Bacharelado em Ciência da Computação** – Universidade (conclusão prevista: 2027)
